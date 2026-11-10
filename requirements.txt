@@ -1,0 +1,4 @@
+# Dependencias para WhatsApp Batch Messaging Tool (Anti-Spike Engine)
+playwright>=1.40.0
+pytest>=8.0.0
+
