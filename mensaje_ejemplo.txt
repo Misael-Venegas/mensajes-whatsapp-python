@@ -1,0 +1,8 @@
+{¡Hola|Buen día|Estimado/a} {nombre},
+
+{Te contactamos para presentarte nuestras promociones exclusivas de este mes.|Queremos compartirte descuentos especiales preparados especialmente para ti.|Tenemos excelentes novedades y beneficios disponibles para tu cuenta.}
+
+{Si deseas más información, solo responde a este mensaje.|Quedamos a tus órdenes para brindarte asesoría inmediata.|¿Te gustaría que te enviemos el catálogo completo?}
+
+¡Que tengas un excelente día!
+

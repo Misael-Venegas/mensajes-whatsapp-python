@@ -1,0 +1,20 @@
+# Sesión persistente de WhatsApp (Credenciales y Cookies)
+whatsapp_session/
+
+# Estados de campaña
+estado_*.json
+*.tmp
+
+# Entorno y Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+
